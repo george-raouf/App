@@ -1,0 +1,222 @@
+{
+  "User" : [  
+     {
+       "id": 1,
+      "name" : "eddydn",
+      "password" : "1234"
+    },
+    {
+      "id": 2,
+      "name" : "eddylee",
+      "password" : "1234"
+    },
+    {
+      "id": 3,
+      "name" : "tom cruise",
+      "password" : "1234"
+    }
+  ],
+  "Food": [
+    {
+      "name": "ang ku",
+      "image": "https://cdn.pixabay.com/photo/2019/04/04/15/20/strawberries-4103054__340.jpg",
+      "description": "",
+      "price": "1000",
+      "discount": "0",
+      "id": 1
+    },
+   {
+      "name": "fatt ko",
+      "image": "https://cdn.pixabay.com/photo/2014/05/23/23/17/dessert-352475__340.jpg",
+      "description": "",
+      "price": "1000",
+      "discount": "0",
+      "id": 2
+    },
+    {
+      "name": "3 layer cake",
+      "image": "https://cdn.pixabay.com/photo/2019/04/04/15/20/strawberries-4103054__340.jpg",
+      "description": "",
+      "price": "1000",
+      "discount": "0",
+      "id": 3
+    },
+     {
+      "name": "thai style salad",
+      "image": "https://cdn.pixabay.com/photo/2014/05/23/23/17/dessert-352475__340.jpg",
+      "description": "bamboo fungus in spicy thai style sauce",
+      "price": "1000",
+      "discount": "0",
+      "id": 4
+    },
+     {
+      "name": "black sesame ball",
+      "image" : "https://cdn.pixabay.com/photo/2017/09/22/19/05/casserole-dish-2776735__340.jpg",
+      "description": "glutinous rice ball with black sesame paste filling coated with minced peanuts",
+      "price": "1000",
+      "discount": "0",
+      "id": 5
+    },
+    {
+      "name": "spinach potato ball",
+      "image" : "https://cdn.pixabay.com/photo/2017/09/22/19/05/casserole-dish-2776735__340.jpg",
+      "description": "golden fried spinach potato ball",
+      "price": "1000",
+      "discount": "0",
+      "id": 6
+    },
+    {
+      "name": "double delight",
+      "image": "https://cdn.pixabay.com/photo/2019/04/04/15/20/strawberries-4103054__340.jpg",
+      "description": "apple in yoghurt sauce with walnut & sunflower seeds coated with cane sugar and sesame seeds",
+      "price": "1000",
+      "discount": "0",
+      "id": 7
+    },
+  {
+      "name": "sour & spicy tofu",
+      "image" : "https://cdn.pixabay.com/photo/2017/09/22/19/05/casserole-dish-2776735__340.jpg",
+      "description": "tofu in spicy thai style sauce",
+      "price": "1000",
+      "discount": "0",
+      "id": 8
+    },
+    {
+      "name": "cream of mushroom",
+      "image" : "https://cdn.pixabay.com/photo/2014/12/15/13/40/croissants-569075__340.jpg",
+      "description": "flavourful blend of 3 types of mushrooms, onion and herbs",
+      "price": "1000",
+      "discount": "0",
+      "id": 9
+    },
+   {
+      "name": "cream of pumpkin",
+      "image" : "https://cdn.pixabay.com/photo/2014/12/15/13/40/croissants-569075__340.jpg",
+      "description": "delicious blend of pumpkin, carrot and onion",
+      "price": "1000",
+      "discount": "0",
+      "id": 10
+    },
+{
+      "name": "mf garden blend",
+      "image" : "https://cdn.pixabay.com/photo/2017/09/22/19/05/casserole-dish-2776735__340.jpg",
+      "description": "refreshing blend of root and vine vegetables",
+      "price": "1000",
+      "discount": "0",
+      "id": 11
+    },
+   {
+      "name": "minestrone",
+      "image": "https://cdn.pixabay.com/photo/2014/05/23/23/17/dessert-352475__340.jpg",
+      "description": "clear tomato based soup with chunky vegetables and herbs",
+      "price": "1000",
+      "discount": "0",
+      "id": 12
+    },
+     {
+      "name": "lotus root",
+      "image" : "https://cdn.pixabay.com/photo/2014/12/15/13/40/croissants-569075__340.jpg",
+      "description": "lotus root, ground nuts and kombu",
+      "price": "1000",
+      "discount": "0",
+      "id": 13
+    },
+   {
+      "name": "old cucumber",
+      "image" : "https://cdn.pixabay.com/photo/2019/04/12/13/19/vanilla-4122137__340.jpg",
+      "description": "old cucumber and longan",
+      "price": "1000",
+      "discount": "0",
+      "id": 14
+    },
+ {
+      "name": "burdock",
+      "image" : "https://cdn.pixabay.com/photo/2019/04/12/13/19/vanilla-4122137__340.jpg",
+      "description": "burdock, fig, longan and goji berry",
+      "price": "1000",
+      "discount": "0",
+      "id": 15
+    },
+   {
+      "name": "abc",
+      "image": "http://medifoods.my/images/menu/s8_abc_chinese_soup.jpg",
+      "description": "carrot, potato, onion, and tomato",
+      "price": "1000",
+      "discount": "0",
+      "id": 16
+    },
+    {
+      "name": "egg mayo sandwich",
+      "image": "http://medifoods.my/images/menu/22_egg_mayo.jpg",
+      "description": "2 organic eggs with only 1 yolk served with fresh organic vegetables and low fat mayonnaise on panini bread",
+      "price": "1000",
+      "discount": "0",
+      "id": 17
+    },
+     {
+      "name": "lentil sandwich",
+      "image" : "https://cdn.pixabay.com/photo/2019/04/12/13/19/vanilla-4122137__340.jpg",
+      "description": "a patty made of organic mushrooms, lentils and spices, topped with an organic sunny side up egg",
+      "price": "1000",
+      "discount": "0",
+      "id": 18
+    },
+  {
+      "name": "hummus platter",
+      "image": "http://medifoods.my/images/menu/23_hummus_platter.jpg",
+      "description": "a refreshing dip made with chickpeas, tahini (sesame paste), and served with crackers, pita bread, fruit and an assortment of salads",
+      "price": "1000",
+      "discount": "0",
+      "id": 2
+    },
+  {
+      "name": "mushroom pizza",
+      "image" : "https://cdn.pixabay.com/photo/2019/04/12/13/19/vanilla-4122137__340.jpg",
+      "description": "mushrooms and onion",
+      "price": "1000",
+      "discount": "0",
+      "id": 19
+    },
+    {
+      "name": "mushroom pizza",
+      "image" : "https://cdn.pixabay.com/photo/2019/04/12/13/19/vanilla-4122137__340.jpg",
+      "description": "tomatoes, capsicum and pesto",
+      "price": "1000",
+      "discount": "0",
+      "id": 20
+    },
+  {
+      "name": "hawaiian pizza",
+      "image" : "https://cdn.pixabay.com/photo/2019/04/12/13/19/vanilla-4122137__340.jpg",
+      "description": "pineapple, beancurd sheet and onion",
+      "price": "1000",
+      "discount": "0",
+      "id": 21
+    },
+    {
+      "name": "garden aglio olio",
+      "image": "http://medifoods.my/images/menu/15_garden_aglio_olio.jpg",
+      "description": "pasta tossed with capsicum, tofu, soybean chunks and special herb-infused olive oil",
+      "price": "1000",
+      "discount": "0",
+      "id": 22
+    },
+     {
+      "name": "spicy aglio olio",
+      "image" : "https://cdn.pixabay.com/photo/2019/04/12/13/19/vanilla-4122137__340.jpg",
+      "description": "pasta tossed with traditional asian spices and served with pan fried diced vegetables",
+      "price": "1000",
+      "discount": "0",
+      "id": 23
+    },
+   {
+      "name": "bolognese aglio olio",
+      "image" : "https://cdn.pixabay.com/photo/2019/04/12/13/19/vanilla-4122137__340.jpg",
+      "description": "bolognese spaghetti with chunky vegetables",
+      "price": "1000",
+      "discount": "0",
+      "id": 24
+    }
+  ]
+  
+}
